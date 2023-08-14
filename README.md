@@ -1,4 +1,4 @@
-### Привет-привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Привет-привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
 
 <br />
 Этот сайт своего рода экспримент, созданный с применением технологий OpenAI и ChatGPT
